@@ -539,7 +539,7 @@ U 1 1 62E45C07
 P 9125 2100
 F 0 "J7" H 9205 2092 50  0000 L CNN
 F 1 "Conn_01x02" H 9205 2001 50  0000 L CNN
-F 2 "Connector_Wire:SolderWire-0.25sqmm_1x02_P4.5mm_D0.65mm_OD2mm" H 9125 2100 50  0001 C CNN
+F 2 "Connector_Wire:SolderWire-0.75sqmm_1x02_P7mm_D1.25mm_OD3.5mm" H 9125 2100 50  0001 C CNN
 F 3 "~" H 9125 2100 50  0001 C CNN
 	1    9125 2100
 	1    0    0    -1  
