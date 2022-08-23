@@ -1,4 +1,4 @@
-18924494862868514
+18926156110257514
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -25955,6 +25955,13 @@ phoenix_contact connector MSTB_01x16_GF_5.00mm_MH
 0
 16
 16
+Connector_Pin
+ERC1602
+
+
+0
+12
+12
 Connector_Pin
 Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork
 solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm
